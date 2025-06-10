@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Surji KS
+# 👋 Hi, I'm surjinarayanan k s
 
 I'm a **Full Stack Development** student and a passionate learner in the field of **Blockchain Technology**. I enjoy building web applications, exploring decentralized systems, and mentoring others who are starting their journey in blockchain.
 
@@ -19,9 +19,8 @@ I'm a **Full Stack Development** student and a passionate learner in the field o
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#)
-- 🌐 Portfolio: [your-portfolio-link](#)
+- 📧 Email: [surjiks93@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/surji-narayanan-k-s-6393b3292](#)
 
 ---
 
