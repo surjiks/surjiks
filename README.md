@@ -11,7 +11,7 @@ I'm a **Full Stack Development** student and a passionate learner in the field o
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** :HTML: HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, MySQL
 - **Blockchain:** Solidity, Ethereum, Metamask, Remix IDE
