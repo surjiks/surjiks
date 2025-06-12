@@ -12,7 +12,8 @@ I'm a **Full Stack Development** student and a passionate learner in the field o
 ## 🛠️ Tech Stack
 
 - **Frontend:** 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) HTML,![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) CSS, ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)JavaScript, React
+![HTML][(https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://img.shields.io/badge/HTML-orange
+) HTML,![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) CSS, ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, MySQL
 - **Blockchain:** Solidity, Ethereum, Metamask, Remix IDE
