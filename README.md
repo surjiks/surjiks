@@ -21,8 +21,9 @@ I'm a **Full Stack Development** student and a passionate learner in the field o
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-surjiks93@gmail.com-red?style=flat&logo=gmail)](mailto:surjiks93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/surji-narayanan-k-s-6393b3292)
+[![Email](https://img.shields.io/badge/Gmail-surjiks93@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:surjiks93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surji-narayanan-k-s-6393b3292)
+
 
 
 ---
